@@ -1,0 +1,31 @@
+# Python environments
+**/venv/
+**/.venv/
+**/env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# ML models and checkpoints
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
